@@ -1,0 +1,17 @@
+class Verification {
+
+constructor(){
+
+
+
+}
+
+display(){
+
+
+    
+}
+
+
+
+}
